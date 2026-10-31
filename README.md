@@ -47,3 +47,5 @@ How to Run the Program - Using INTELLIJ IDEA
 
 
 Note: I had a really hard time finishing this project. 
+Extra Note: For the emojis I pasted in the menu I took it from this specific website, along with other emojis
+https://emojidb.org/mcdo-emojis?utm_source=user_search
